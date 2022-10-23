@@ -1,0 +1,13 @@
+$TTL 1h
+
+@ IN SOA ns.polka.stingray. postmaster.polka.stinglay. (
+    2022102301
+    1h
+    15m
+    1d
+    1h
+);
+
+@  IN NS ns.polka.stingray.
+@  IN A  127.0.0.1
+ns IN A  127.0.0.1
